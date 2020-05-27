@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">testhammer</string>
+    <string name="reg">SIGN UP</string>
+    <string name="login">LOG IN</string>
+    <string name="covid">COVID-19</string>
+    <string name="email">Email</string>
+    <string name="pass">Password</string>
+    <string name="name">Full name</string>
+    <string name="mob">Mobile number</string>
+    <string name="passcnf">Confirm Password</string>
+    <string name="partner">PARTNER</string>
+    <string name="search">SEARCH</string>
+    <string name="contact">CONTACT</string>
+    <string name="map">MAP</string>
+    <string name="dashboard">DASHBOARD</string>
+    <string name="title_activity_map">Map</string>
+    <string name="normal_map">Normal Map</string>
+    <string name="hybrid_map">Hybrid Map</string>
+    <string name="satellite_map">Sattelite Map</string>
+    <string name="terrain_map">Terrain Map</string>
+
+
+</resources>
+
